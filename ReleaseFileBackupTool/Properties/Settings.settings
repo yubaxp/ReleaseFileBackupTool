@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReleaseFileBackupTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RemoteHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="RemotePort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="RemoteUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">foo</Value>
+    </Setting>
+    <Setting Name="RemoteBasePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/home/foo/</Value>
+    </Setting>
+    <Setting Name="SshPrivateKeyPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\foo\.ssh\id_rsa</Value>
+    </Setting>
+    <Setting Name="ReleasePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\release\</Value>
+    </Setting>
+    <Setting Name="BackupPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\backup\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
